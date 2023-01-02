@@ -1,4 +1,3 @@
-URL: https://bitbucket.org/asomov/snakeyaml
-Version: hg id 29a091e21588
-BugComponent: 99142
-Owners: iam
+version https://git-lfs.github.com/spec/v1
+oid sha256:543f2bcb10efbc934f1393e6d31f49eb384ea60182b68f71d8ea85b2133fea4e
+size 104
